@@ -56,7 +56,7 @@ li,
     padding-right: 200px;
 }
 
-#Herotxt {
+#herotxt {
     color: #F9FAF8;
     font-size: 48px;
     margin: 0;
@@ -78,4 +78,40 @@ button {
     font-weight: bold;
     border: none;
     font-size: 15px;
+}
+
+.secondsec {
+    padding: 60px 200px 120px 200px;
+}
+
+.infotitle {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin-bottom: 50px;
+}
+
+.ssecimg {
+    border: 4px solid rgb(28, 99, 252);
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    flex-basis: 180px;
+    gap: 10px;
 }
