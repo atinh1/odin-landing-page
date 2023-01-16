@@ -169,3 +169,12 @@ li,
     border-radius: 8px;
     padding: 6px 30px;
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    color: rgb(206, 206, 206);
+}
